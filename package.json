@@ -8,11 +8,11 @@
     "name": "Kiko Beats",
     "url": "https://github.com/Kikobeats"
   },
-  "version": "0.4.2",
+  "version": "0.4.3",
   "license": "MIT",
   "dependencies": {
-    "async.util.restparam": "0.4.2",
-    "async.util.setimmediate": "0.4.2"
+    "async.util.restparam": "0.4.3",
+    "async.util.setimmediate": "0.4.3"
   },
   "keywords": [
     "async.util",
